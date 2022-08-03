@@ -45,7 +45,7 @@ body {
 
 .btn {
     text-decoration: none;
-    background-color: #ffc526;
+    background-color: hsl(61, 87%, 51%);
     padding: 14px 10px;
     color: black;
 }
